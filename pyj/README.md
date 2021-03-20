@@ -1,7 +1,7 @@
 # Jupyter Reports 
 
-## Content
-* gender1.ipynb  
+## References
+* pyj001.ipynb  
 
   This report use the [World Bank Open Data](https://data.worldbank.org/)
   dataset [Women who believe a husband is justified in beating his wife
