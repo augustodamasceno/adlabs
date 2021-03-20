@@ -1,6 +1,7 @@
 # adlabs
 ## Augusto Damasceno's courseware
 
+
 # How it's organized?
 
 * Each class has a code with three letters (the area) and three numbers (the class).
@@ -13,6 +14,7 @@
     * a pdf file
     * a video
 	* a folder with several files
+
 
 # Areas 
 

@@ -1,4 +1,9 @@
-
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+"""
+This file is part of the project adlabs
+See https://github.com/augustodamasceno/adlabs/
+"""
 
 # Listas e loops em Python
 
